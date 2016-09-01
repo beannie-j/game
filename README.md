@@ -1,1 +1,2 @@
-# game written in Java
+# game development in progress
+# technologies used - Java
